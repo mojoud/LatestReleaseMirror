@@ -157,14 +157,16 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="happ-proxy--happ-android"></div>
+<div id="mojoud--meli-action"></div>
 
-### Happ-proxy--happ-android
+### mojoud--Meli-Action
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.21.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.21.1)
+🔗 [source](https://github.com/mojoud/Meli-Action) – [<code><small>direct-2</small></code>](https://github.com/mojoud/Meli-Action/releases/tag/direct-2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Happ.apk` | 56.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
-| `Happ_beta.apk` | 56.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
+| `get (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/mojoud/Meli-Action/get.001) |
+| `get (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/mojoud/Meli-Action/get.002) |
+| `get_20260524_120829.7z (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/mojoud/Meli-Action/get_20260524_120829.7z.001) |
+| `get_20260524_120829.7z (part 2 of 2)` | 52.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/mojoud/LatestReleaseMirror/main/releases/mojoud/Meli-Action/get_20260524_120829.7z.002) |
 <!-- RELEASES_END -->
